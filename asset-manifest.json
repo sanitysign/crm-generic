@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/crm-generic/static/css/main.a4906ab5.css",
-    "main.js": "/crm-generic/static/js/main.6f0cfbb0.js",
+    "main.js": "/crm-generic/static/js/main.ea50f95b.js",
     "static/media/open-sans-v27-latin_cyrillic-500.woff": "/crm-generic/static/media/open-sans-v27-latin_cyrillic-500.e06baa2d5f94f7f3e670.woff",
     "static/media/open-sans-v27-latin_cyrillic-300.woff": "/crm-generic/static/media/open-sans-v27-latin_cyrillic-300.fe55916ed79a7dc22c37.woff",
     "static/media/open-sans-v27-latin_cyrillic-regular.woff": "/crm-generic/static/media/open-sans-v27-latin_cyrillic-regular.4a394a20790a10a76a10.woff",
@@ -40,10 +40,10 @@
     "static/media/exclamation-circle.svg": "/crm-generic/static/media/exclamation-circle.56ace8943d65cce3fb00c350d983e5dc.svg",
     "static/media/chevron-right.svg": "/crm-generic/static/media/chevron-right.61c607bb99397366b3b25f0ea180d905.svg",
     "main.a4906ab5.css.map": "/crm-generic/static/css/main.a4906ab5.css.map",
-    "main.6f0cfbb0.js.map": "/crm-generic/static/js/main.6f0cfbb0.js.map"
+    "main.ea50f95b.js.map": "/crm-generic/static/js/main.ea50f95b.js.map"
   },
   "entrypoints": [
     "static/css/main.a4906ab5.css",
-    "static/js/main.6f0cfbb0.js"
+    "static/js/main.ea50f95b.js"
   ]
 }
